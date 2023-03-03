@@ -14,7 +14,6 @@ body {
   background: #e3f4ff;
   font-size: 16px;
   padding: 8px;
-
 }
 
 .content {
@@ -36,6 +35,6 @@ button {
   padding: 8px 24px;
 }
 
-.title, .content, .button-container {
-  margin: 8px;
+.title, .content {
+  margin: 0px 0px 8px 0px;
 }
