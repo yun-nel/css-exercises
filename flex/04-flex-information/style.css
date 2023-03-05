@@ -11,6 +11,23 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  flex: 1 1 200px;
+  
+}
+
+.images > .text {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  flex: 1;
+  color: red;
 }
 
 /* do not edit this footer */
