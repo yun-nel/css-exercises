@@ -59,4 +59,5 @@ ul {
   justify-content: end;
   flex: 1;
   gap: 16px;
+  align-items: center;
 }
