@@ -23,12 +23,12 @@ img {
 
 .description {
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  justify-content: center;
+}
+
+.description > .text {
   flex-wrap: wrap;
   width: 200px;
-  color: red;
-  flex: 1 1 auto;
 }
 
 .images,
