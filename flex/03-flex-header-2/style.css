@@ -54,4 +54,5 @@ ul {
 .button-profile {
   display: flex;
   justify-content: end;
+  flex: 1
 }
