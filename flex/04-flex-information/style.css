@@ -27,7 +27,6 @@ img {
 }
 
 .container .text {
-  flex-wrap: wrap;
   text-align: center;
   width: 200px;
 
