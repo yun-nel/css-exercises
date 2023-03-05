@@ -14,27 +14,26 @@ img {
   margin-bottom: 32px
 }
 
-.images {
+.container {
   display: flex;
   justify-content: center;
-  flex: 1 1 200px;
+  gap: 52px;
   
 }
 
-.description {
+.container .image-one {
   display: flex;
   justify-content: center;
 }
 
-.description > .text {
+.container .text {
   flex-wrap: wrap;
+  text-align: center;
   width: 200px;
+  flex: auto;
+  color: red;
 }
 
-.images,
-.description {
-  gap: 52px;
-}
 
 /* do not edit this footer */
 .footer {
